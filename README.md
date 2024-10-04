@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanice-Oliveira
 - 👀 I’m interested in astronomy, culture and codding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a project focused on Python
 - 📫 E-mail: oliveira.ddv@gmail.com 
 
